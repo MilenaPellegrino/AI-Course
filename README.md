@@ -20,9 +20,9 @@ Contents of the course:
   - Arboles de decision
 
 5- ALGORITMOS DE MACHINE LEARNING 2
-  - VEctores de soporte
+  - Maquinas de vectores de soporte (SVMs)
   - Clusterizacion con k-means
-  - 
+
 6- REDES NEURONALES Y DEEP LEARNING
   - Redes neuronales de regresion
   - Redes neuronales de Clasificacion
